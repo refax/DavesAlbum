@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ANIM_Bat
+  m_Controller: {fileID: 9100000, guid: 94003f0a5bb2e414b94e6338c27d8ec1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 73eacec385bb4bf44b2f41ed865d416d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5dd1ae242738b1c4ea3424d7b6c9d7be, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5d22cb19957575d46bec6bef3c4bd9d8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7fd4de39608a5ed478b95d7ddce160a9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9fa9b8a64736b8340bdc8fe950a990e2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f4487c59d43e1ff4e9d6b6ebe4f53622, type: 2}
