@@ -33,3 +33,9 @@ sysinfo.txt
 *.apk
 *.unitypackage
 Memento/Assets/ReffTeam/PhysicsMaterials.meta
+
+Memento/Logs/
+  Memento/UserSettings/
+  Memento/MemoryCaptures/
+  Memento/.vs/
+  .vsconfig
